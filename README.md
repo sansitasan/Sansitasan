@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Repo--1-Isekai--Defence%20-brightgreen" width="400px"/>
 
-(https://github.com/sansitasan/Script_IsekaiDefense)
+(https://github.com/sansitasan/IsekaiDefense)
 <br/><br/><br/>
 
 AI 일러스트를 사용하고 서브컬쳐 향을 곁들인 캐주얼 디펜스 게임입니다.<br/><br/>
