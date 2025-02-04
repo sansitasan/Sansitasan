@@ -7,7 +7,7 @@
 (https://github.com/sansitasan/Script_IsekaiDefense)
 <br/><br/><br/>
 
-AI 일러스트를 사용하고 서브컬쳐 향을 곁들인 캐주얼 디펜스 게임입니다!<br/><br/>
+AI 일러스트를 사용하고 서브컬쳐 향을 곁들인 캐주얼 디펜스 게임입니다.<br/><br/>
 <details>
   <summary>게임 소개 영상 보기</summary>
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=plastic&logo=youtube&logoColor=#FF0000" width="100px"/>
@@ -22,7 +22,7 @@ AI 일러스트를 사용하고 서브컬쳐 향을 곁들인 캐주얼 디펜�
 
 ![Honeycam_2023-09-20_12-47-30](https://github.com/user-attachments/assets/c30a8950-0372-4d43-970f-fdb54cb8c4b5)<br/>
 
-2023 충북 2차 게임잼 1등상 금속활자주조 시뮬레이션 게임입니다!<br/>
+2023 충북 2차 게임잼 1등상 금속활자주조 시뮬레이션 게임입니다.<br/>
 (https://github.com/nGenius09/gamejam-handicraft)
 <br/><br/><br/><br/><br/>
 
