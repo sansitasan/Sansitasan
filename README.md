@@ -1,8 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-# 👋출시와 서비스 경험이 있는 신입 클라이언트 개발자 김산입니다!
+# 👋출시와 서비스 경험이 있는 신입 클라이언트 개발자 김산입니다!<br/>
 
-
+<p align="center">
+현재 학원을 다니고 있습니다.<br/>
+▼아래 팩맨을 클릭하시면 학원 깃허브로 들어갑니다!▼<br/>
+<a href="https://github.com/sansitasan/WantedLecture" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9d77896b-eb99-41ac-8440-c69e7eba911a" width="400px">
+  </p>
+</a>
 
 ## 📂 My Repositories
 
